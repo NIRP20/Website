@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background: #0b2e59;
+  background: yellow;
   padding: 15px 20px;
 }
 
@@ -72,7 +72,7 @@ ul.list li {
 }
 
 footer {
-  background: #0b2e59;
+  background: #yellow;
   color: white;
   text-align: center;
   padding: 25px 15px;
